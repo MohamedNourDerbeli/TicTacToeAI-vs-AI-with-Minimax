@@ -8,16 +8,8 @@
 - [Code Overview](#code-overview)
 - [Dependencies](#dependencies)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## How to Observe
-
-1. **Clone or download** the repository to your local machine.
-
-2. Run the game by executing the `tic_tac_toe.py` script:
-
-   ```bash
-   python tic_tac_toe.py
 
 Sit back and observe the AI players (Alex and Sam) compete against each other in a game of tic-tac-toe.
 
@@ -25,11 +17,15 @@ The game continues until one of the AI players wins, or it ends in a draw.
 
 Enjoy observing the AI vs AI tic-tac-toe matches!
 
-Code Overview
-tic_tac_toe.py: The main Python script containing the game logic.
-README.md: This file, providing an overview of the project.
-Dependencies
+## Code Overview
+
+- `tic_tac_toe.py`: The main Python script containing the game logic.
+- `README.md`: This file, providing an overview of the project.
+
+## Dependencies
+
 The code has no external dependencies beyond Python itself.
 
-Acknowledgments
+## Acknowledgments
+
 This project showcases an AI vs AI tic-tac-toe simulation. Both AI players utilize the minimax algorithm to make strategic moves.
